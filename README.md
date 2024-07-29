@@ -1,3 +1,4 @@
+![logo](https://github.com/AMISHA2004-devgeek/AMISHA2004-devgeek/blob/main/WhatsApp%20Image%202024-07-29%20at%2010.09.01%20PM.jpeg)
 <h1 align="center">Hi there 👋, I am Amisha Kumari</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <div align="center">
