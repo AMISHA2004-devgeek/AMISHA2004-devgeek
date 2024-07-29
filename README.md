@@ -33,14 +33,6 @@
 - ⚡ Fun fact: **I blend stress eating and coding seamlessly—nothing like a late-night coding session with a side of my favorite snacks to keep the creativity flowing!**
 
 
-<div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amisha2004-devgeek&show_icons=true&locale=en&layout=compact" alt="amisha2004-devgeek" /> -->
- 
-<img align="left" height="150" src="https://www.bing.com/th/id/OGC.67c0d0207b2f12177b0242585dcf3a4b?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fpaTz7UZbPfTZFRYnnB%2fgiphy.gif&ehk=WQgtcPkEONfs0IPVjwdTiF3oia%2beDmb0XsT5MpYefSw%3d" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amisha2004-devgeek&" alt="amisha2004-devgeek" />
-</div>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -78,6 +70,7 @@
 
 # 📊 GitHub Stats
 <div align="left">
+  <img align="left" height="150" src="https://www.bing.com/th/id/OGC.67c0d0207b2f12177b0242585dcf3a4b?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fpaTz7UZbPfTZFRYnnB%2fgiphy.gif&ehk=WQgtcPkEONfs0IPVjwdTiF3oia%2beDmb0XsT5MpYefSw%3d" />
   <img src="https://github-readme-stats.vercel.app/api?username=AMISHA2004-devgeek&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
  
 </div>
