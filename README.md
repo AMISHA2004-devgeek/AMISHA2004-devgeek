@@ -26,7 +26,7 @@
   <img width="12" />
 </div>
 
-- 👨‍💻 All of my projects are available at [GitHub Repository](https://github.com/AMISHA2004-devgeek/AMISHA2004-devgeek/tree/main)
+- 🌐 Check out my full portfolio here: [My_Portfolio](http://lnkiy.in/amisha_dev)
 - 💬 Ask me about **React JS, Node:EJS, Node:Express, MongoDB, REST & JSON APIs, JavaScript, CSS, HTML**
 - 📫 How to reach me: **amishakumarijsr009@gmail.com**
 
