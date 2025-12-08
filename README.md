@@ -26,7 +26,7 @@
   <img width="12" />
 </div>
 
-- 🌐 Check out my full portfolio here: [My_Portfolio](http://lnkiy.in/amisha_dev)
+- 🌐 Check out my full portfolio here: [My_Portfolio]([http://lnkiy.in/amisha_dev](https://amisha-dev.vercel.app/))
 - 💬 Ask me about **React JS, Node:EJS, Node:Express, MongoDB, REST & JSON APIs, JavaScript, CSS, HTML**
 - 📫 How to reach me: **amishakumarijsr009@gmail.com**
 
